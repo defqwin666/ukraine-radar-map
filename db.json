@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "id": "u_owner",
+      "name": "Власник",
+      "role": "owner",
+      "keyHash": "011012faf1f5d69d685514db5b30c732abf29f9b023353062fa152b7a9fecf74",
+      "createdAt": 1770041967209,
+      "banned": false,
+      "banReason": ""
+    }
+  ]
+}
